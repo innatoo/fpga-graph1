@@ -36,7 +36,6 @@ initial begin
 
                    end
 
-
 always @(negedge CLK) begin
 
   if (ind>7)ind<=00;
