@@ -83,7 +83,7 @@ SPI_slave mio_spi(.CLK(CLK), .SCK(SCK), .MOSI(MOSI), .MISO(MISO), .SSEL(SSEL), .
 //
 //
 //
-//
+// pippo baudo
 //
 //
 //
